@@ -10,7 +10,7 @@
 <main>
   <section>
     <h2>📌 Intro</h2>
-    <p>SPA simples de uma to-do list, onde é possível criar novas tasks e setar uma cor referente a prioridade da mes. </p>
+    <p>SPA simples de uma to-do list, onde é possível criar novas tasks e setar uma cor referente a prioridade da mesma. </p>
   </section>
 
 <br>
@@ -22,7 +22,7 @@
   <img src='https://ik.imagekit.io/marcosfavarao/dashboard/development-icons/minimalists/typescript-256-minimalist_qOZA91yRiX.png?ik-sdk-version=javascript-1.4.3&updatedAt=1658447123241' alt="typescript" width="64">
   <img src='https://ik.imagekit.io/marcosfavarao/dashboard/development-icons/minimalists/styledcomponents-256-minimalist_qQ-Mt_IJEb.png?ik-sdk-version=javascript-1.4.3&updatedAt=1658447123335' alt="styled-components" width="64">
   <img src='https://ik.imagekit.io/marcosfavarao/dashboard/development-icons/minimalists/polished-256-minimalist_fjFp6ixha.png?ik-sdk-version=javascript-1.4.3&updatedAt=1658447123195' alt="polished" width="64">
-  <img src='https://ik.imagekit.io/marcosfavarao/dashboard/development-icons/phosphor-icons_mT5gQAQ4-.png?updatedAt=1688166523055' alt="phosphor-icons" width="62">
+  <img src='https://ik.imagekit.io/marcosfavarao/dashboard/development-icons/phosphor-icons_mT5gQAQ4-.png?updatedAt=1688166523055' alt="phosphor-icons" width="61">
 </section>
 
 <br>
