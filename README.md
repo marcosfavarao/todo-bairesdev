@@ -1,7 +1,5 @@
 <header align="center">
   <h1>To-do App</h1>
-  <img alt="todo-app" src="https://ik.imagekit.io/marcosfavarao/dashboard/todo-app/todo-app-gif_YrTmqFT8r.gif?ik-sdk-version=javascript-1.4.3&updatedAt=1660330029212" width="100%">
-
   <div align="center">
     <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/marcosfavarao/todo-app">
     <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen" />
@@ -24,7 +22,7 @@
   <img src='https://ik.imagekit.io/marcosfavarao/dashboard/development-icons/minimalists/typescript-256-minimalist_qOZA91yRiX.png?ik-sdk-version=javascript-1.4.3&updatedAt=1658447123241' alt="typescript" width="64">
   <img src='https://ik.imagekit.io/marcosfavarao/dashboard/development-icons/minimalists/styledcomponents-256-minimalist_qQ-Mt_IJEb.png?ik-sdk-version=javascript-1.4.3&updatedAt=1658447123335' alt="styled-components" width="64">
   <img src='https://ik.imagekit.io/marcosfavarao/dashboard/development-icons/minimalists/polished-256-minimalist_fjFp6ixha.png?ik-sdk-version=javascript-1.4.3&updatedAt=1658447123195' alt="polished" width="64">
-  <img src='https://ik.imagekit.io/marcosfavarao/dashboard/development-icons/phosphor-icons_mT5gQAQ4-.png?updatedAt=1688166523055' alt="phosphor-icons" width="64">
+  <img src='https://ik.imagekit.io/marcosfavarao/dashboard/development-icons/phosphor-icons_mT5gQAQ4-.png?updatedAt=1688166523055' alt="phosphor-icons" width="62">
 </section>
 
 <br>
